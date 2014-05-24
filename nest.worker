@@ -1,0 +1,5 @@
+runtime "ruby"
+worker "nest.rb"
+
+gem 'nest_thermostat'
+gem 'librato-metrics'
